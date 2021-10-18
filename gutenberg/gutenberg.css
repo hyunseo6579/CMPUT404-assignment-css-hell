@@ -1,0 +1,20 @@
+p {
+	color: brown;
+	font-size: 1.5em;
+}
+
+/* header + image caption  */
+h1,h2,h3,h4,h5,h6 {
+	color: firebrick;
+	font-weight: bold;
+}
+
+img{
+	border-radius: 30%;
+	border:  5pt solid darkred;
+}
+
+/* over ride other css:  https://stackoverflow.com/a/549830 */
+body {
+	background-color:mistyrose !important;
+}
