@@ -12,6 +12,16 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Resources
+===============================
+How to override other css: https://stackoverflow.com/a/549830
+
+Part I: Modifications Made
+==============================
+In order to apply my gutenberg.css styling, I had to add:
+```<link type="text/css" rel="stylesheet" href="gutenberg.css"/>```
+to gutenberg html files.
+
 License/Copyright
 =================
 
